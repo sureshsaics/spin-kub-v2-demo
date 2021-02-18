@@ -1,3 +1,4 @@
+#this is a sample image
 apiVersion: v1
 kind: ConfigMap
 metadata:
